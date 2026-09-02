@@ -58,10 +58,13 @@ You also need to print a simple <a href="https://github.com/made0fjell0/CommieCA
 **IF YOU WANT TO** support me on printables, you can also find the STLs <a href="https://www.printables.com/model/1827930-commiecad">here</a>.
 
 ### PCB
-<h1>PCB-Less version coming SOON</h1>
+**PCB-Less version coming SOON**
 The gerbers are <a href="https://github.com/made0fjell0/CommieCAD/tree/main/gerbers">HERE.</a>
 <br>
 You can get the board cut from <a href="https://jlcpcb.com/pcb-fabrication/fr4-pcb">JLCPCB</a> probably for under 10 or 15$. Just sumbit the <a href="https://github.com/made0fjell0/CommieCAD/raw/refs/heads/main/gerbers/CommieCAD.zip?raw=true">zip file</a> and they will cut it.
+<br><br>
+**Schematic**
+<img src="https://github.com/made0fjell0/CommieCAD/blob/main/images/schematic.png?raw=true">
 
 ### Assembly
 
