@@ -59,9 +59,9 @@ You also need to print a simple <a href="https://github.com/made0fjell0/CommieCA
 
 ### PCB
 **PCB-Less version coming SOON**<br>
-The gerbers are <a href="https://github.com/made0fjell0/CommieCAD/tree/main/gerbers">HERE</a> and their compressed version <a href="https://github.com/made0fjell0/CommieCAD/tree/main/PCB/gerbers.zip">HERE.</a>
+The gerbers are <a href="https://github.com/made0fjell0/CommieCAD/tree/main/gerbers">HERE</a> and their compressed version <a href="https://github.com/made0fjell0/CommieCAD/tree/main/production/gerbers.zip">HERE.</a>
 <br>
-You can get the board cut from <a href="https://jlcpcb.com/pcb-fabrication/fr4-pcb">JLCPCB</a> probably for under 10 or 15$. Just sumbit the <a href="https://github.com/made0fjell0/CommieCAD/raw/refs/heads/main/PCB/gerbers.zip?raw=true">zip file</a> and they will cut it.
+You can get the board cut from <a href="https://jlcpcb.com/pcb-fabrication/fr4-pcb">JLCPCB</a> probably for under 10 or 15$. Just sumbit the <a href="https://github.com/made0fjell0/CommieCAD/raw/refs/heads/main/production/gerbers.zip?raw=true">zip file</a> and they will cut it.
 <br><br>
 **Schematic**
 <img src="https://github.com/made0fjell0/CommieCAD/blob/main/images/schematic.png?raw=true">
