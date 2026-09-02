@@ -89,7 +89,7 @@ Let the assembly begin: <br>
 <br><br>
 You will need the <a href="https://www.arduino.cc/en/software/">ArduinoIDE</a>.
 <br>
-Download <a href="https://github.com/made0fjell0/CommieCAD/blob/main/Firmware/CommieCAD.ino?raw=true">CommieCAD.ino</a>, open up Arduino IDE, plug in your seeeduino board and flash the code onto it. That's it, nice and easy.
+Download <a href="https://github.com/made0fjell0/CommieCAD/blob/main/Firmware/CommieCAD.ino">CommieCAD.ino</a>, open up Arduino IDE, plug in your seeeduino board and flash the code onto it. That's it, nice and easy.
 
 ## End
 
